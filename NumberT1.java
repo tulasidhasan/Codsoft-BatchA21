@@ -1,6 +1,6 @@
 package Task1;
 import java.util.*;
-public class RandomNumber
+public class NumberT1
 {
 public static void main(String[] args)
 {
